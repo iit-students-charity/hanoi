@@ -1,6 +1,8 @@
 # prolog-hanoi
 Towers of Hanoi in Prolog
 
+Взято отсюда: https://github.com/dvberkel/prolog-hanoi
+
 ## Description
 The [towers of Hanoi][hanoi]
 
